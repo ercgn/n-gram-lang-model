@@ -1,4 +1,4 @@
-Eric Gan (andrewID: ericgan)
+Eric Gan
 Language Modeling for 11-411: Natural Language Processing
 
 Runtime: 10 + [numberOfTrainingFiles] * 15 seconds
