@@ -1,9 +1,0 @@
-Perplexity Scores:
-
-games.txt: 64.3400791442
-health.txt: 59.7478612519
-news.txt: 44.1377576573
-shopping.txt: 62.2301510936
-sports.txt: 47.684067133
-
-The perplexity scores are within in the range 44 and 64, which is relatively close (?). Overall the scores seem to be pretty consistent. 
