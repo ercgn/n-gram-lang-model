@@ -1,0 +1,16 @@
+File used: games.txt
+
+1: games-firstHalf.txt: Lines 1-25
+2: games-secondHalf.txt: Lines 26-50
+
+Perplexity Tests:
+
+Trained 1 to test 2: 72.0849984044
+Trained 2 to test 1: 66.3357173991
+
+When we used the second file to model the first file, we noticed that the 
+perplexity score is lower. This seems to make sense because since companies hire
+lawyers to write policies for them, their language is more consistent. So it 
+should be more surprising to see different language behavior in the second file,
+so a higher perplexity value when we test the second file using the first as our
+training set makes sense. 
